@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+require_relative 'rspec_helper'
 
 describe Author do
   before(:each) do
