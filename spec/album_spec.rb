@@ -1,10 +1,10 @@
-require_relative 'rspec_helper'
+require_relative 'spec_helper'
 
 describe MusicAlbum do
   context 'MusicAlbum class' do
     before :all do
-      @album = MusicAlbum.new('03-05-2020', 'Afro Congo', on_spotify: true)
-      @second_album = MusicAlbum.new('24-04-2011', 'Acts Of God', on_spotify: true)
+      @album = MusicAlbum.new('2020-05-03', 'Afro Congo', on_spotify: true)
+      @second_album = MusicAlbum.new('2011-04-24', 'Acts Of God', on_spotify: true)
     end
 
     it 'should be an instance of Music Album class: ' do
