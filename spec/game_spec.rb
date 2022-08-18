@@ -2,8 +2,8 @@ require_relative 'spec_helper'
 
 describe Game do
   before(:each) do
-    @fifa = Game.new('02-04-2011', 'yes', '05-03-2019')
-    @nba = Game.new('20-11-2020', 'no', '20-07-2022')
+    @fifa = Game.new('2011-04-02', 'yes', '2019-03-05')
+    @nba = Game.new('2020-11-02', 'no', '2022-07-20')
   end
 
   context 'testing the game class' do

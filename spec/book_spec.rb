@@ -2,9 +2,9 @@ require_relative 'spec_helper'
 
 describe Book do
   before(:each) do
-    @old_book = Book.new('04-09-2009', 'Amazon', 'good')
-    @new_book = Book.new('04-09-2021', 'Wood Bridge', 'excellent')
-    @bad_book = Book.new('04-09-2022', 'Google', 'bad')
+    @old_book = Book.new('2009-09-04', 'Amazon', 'good')
+    @new_book = Book.new('2021-09-04', 'Wood Bridge', 'excellent')
+    @bad_book = Book.new('2022-09-04', 'Google', 'bad')
   end
 
   context 'testing the book class' do
