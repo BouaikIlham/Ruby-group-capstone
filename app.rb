@@ -1,5 +1,5 @@
-require './spec/spec_helper'
-require './modules/preserve_data'
+require_relative './spec/rspec_helper'
+require_relative './modules/preserve_data'
 
 # rubocop:disable  Metrics/ClassLength
 class App
@@ -239,3 +239,4 @@ class App
   # rubocop:enable Metrics/MethodLength
 end
 # rubocop:enable  Metrics/ClassLength
+
