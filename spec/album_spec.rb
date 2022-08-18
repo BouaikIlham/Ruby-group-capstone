@@ -1,4 +1,4 @@
-require_relative 'rspec_helper'
+require_relative 'spec_helper'
 
 describe MusicAlbum do
   context 'MusicAlbum class' do
