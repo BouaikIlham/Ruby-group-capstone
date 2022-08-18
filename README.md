@@ -30,7 +30,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo (if available)
 
-[Live Demo Link]()
+
+[Video link](https://drive.google.com/file/d/1Tyx_ByDhz6-2-V1ay4KW3Q2GmUZn5XPX/view?usp=sharing)
 
 
 ## Getting Started
@@ -45,11 +46,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ilham Bouaik**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub[@bouaik ilham](https://github.com/BouaikIlham)
+- Twitter[@IlhamBouaik](https://twitter.com/IlhamBouaik)
+- LinkedIn[@BouaikIlham](https://www.linkedin.com/in/bouaik-ilham-478478230/)
 
 👤 **Emmanue Mensah**
 
